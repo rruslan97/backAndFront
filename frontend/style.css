@@ -1,0 +1,57 @@
+
+.papka {
+    color: red;
+}
+
+.nepapka {
+    color: blue;
+}
+
+.colortext {
+    color: red; /* Красный цвет выделения */
+  }
+
+body {
+    background-color: bisque;
+    background-size:cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/img/bg.jpg');
+}
+
+.file-manager {
+    display: inline-block;
+    vertical-align: top;
+    width: 170px;
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+.content {
+    border: 3px solid rgb(0, 0, 0);
+    /* background-color:rgb(221, 214, 214); */
+    border-radius: 2%;
+    background-image: url('/img/1.png');
+}
+
+.database {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}
+
+.modalWindow1 {
+    display: inline-block;
+    /* border: 1px solid rgb(0, 0, 0);
+    border-radius: 2%; */
+    width: 370px;
+    margin-right: 0px;
+    margin-left: 25px;
+}
+
+.main2 {
+
+}
+
